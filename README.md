@@ -16,5 +16,5 @@ Projeto desenvolvido para o desafio da DIO, focado na criação de um agente int
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/dimsouza79-spec/agent-carbon-footprint-trello.git](https://github.com/dimsouza79-spec/agent-carbon-footprint-trello.git)
+   git clone https://github.com/dimsouza79-spec/agent-carbon-footprint-trello.git
    cd agent-carbon-footprint-trello
